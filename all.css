@@ -1,0 +1,40 @@
+#main_header {
+  background-color: brown;
+  color: white;
+}
+
+.organized_list ul, .organized_list header, .organized_list h4 {
+  display: inline-block;
+}
+
+.organized_list ul ul {
+  margin-left: 10px;
+}
+
+#achievements li {
+  display: inline-block;
+  color: white;
+}
+
+#achievements {
+  background-color: red;
+}
+
+.sub_headers h2 {
+  background-color: tan;
+  color: ghostwhite;
+}
+
+#schedule_selector li {
+  display: inline-block;
+  color: ghostwhite;
+}
+
+#schedule_selector ul {
+  background-color: green;
+}
+
+#tasks h4 {
+  background-color: green;
+  color: ghostwhite;
+}
