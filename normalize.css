@@ -28,9 +28,6 @@ h1, h2 {
   margin-top: 0;
 }
 
-.wrapper {
-  margin: 0 auto;
-  width: 95%;
 }
 
 /**
@@ -48,7 +45,6 @@ main {
 
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
 }
 
 /* Grouping content
